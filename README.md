@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KathyMwaura
+- 👀 I’m interested in learning SQL & Python and becoming a Data Analyst
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on anything that will help my progression
+- 📫 You can reach me on my Linkedin: 
+- 😄 Pronouns: She/Her
